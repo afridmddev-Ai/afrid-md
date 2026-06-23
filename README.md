@@ -39,14 +39,16 @@
 | [Claim Triage Automation](#) | 80% automation of insurance claims — turnaround from 48h → 6h | Python, CrewAI, Docker, AWS |
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afridmddev-Ai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afridmddev-Ai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afridmddev-Ai&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=afridmddev-Ai&theme=dark&hide_border=true&background=0d1117" width="60%" />
+</p>
 ---
 
 ## 📫 Reach Me
